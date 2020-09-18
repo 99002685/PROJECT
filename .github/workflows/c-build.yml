@@ -16,6 +16,4 @@ jobs:
       
     - name: make 
       run:  make -C 3_Implementation/
-      
-    - name: application
-      run:  make run
+ 

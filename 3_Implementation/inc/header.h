@@ -30,7 +30,7 @@ struct acc_type account[20];
      Acc_detail account[20];
 */
 
-int num_acc;
+int account_num; /*Account number is declared global
 
 void Create_new_account();
 void Cash_Deposit();

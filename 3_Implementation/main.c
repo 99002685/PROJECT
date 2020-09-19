@@ -2,7 +2,6 @@
 int main()
 {
     char option;
-    char f2f[50] = "http://fresh2refresh.com/";
     num_acc=0;
     while(1)
     {

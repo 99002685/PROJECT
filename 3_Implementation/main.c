@@ -2,7 +2,7 @@
 int main()
 {
     char option;
-    account_num=0;
+    num_acc=0;
     while(1)
     {
        printf("\n***** Welcome to Bank Application *****\n");
